@@ -102,3 +102,5 @@ See the [Wiki](https://github.com/0xd4d/dnSpy/wiki) for build instructions and o
 dnSpy is licensed under [GPLv3](dnSpy/dnSpy/LicenseInfo/GPLv3.txt).
 
 # [Credits](dnSpy/dnSpy/LicenseInfo/CREDITS.txt)
+
+[![](https://codescene.io/projects/4966/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/4966/jobs/latest-successful/results)
